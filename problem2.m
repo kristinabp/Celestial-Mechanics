@@ -1,5 +1,3 @@
-(* ::Package:: *)
-
 function findElements(a, e, i, L, w, Omega, miu, t)
    i = i * pi/180;
    n = sqrt(1 / a^3);
